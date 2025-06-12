@@ -1,4 +1,4 @@
-# Projeto GUI Livraria - Sistema de Gerenciamento de Clientes
+# Projeto GUI Livraria - Sistema de Gerenciamento
 
 ## Descrição
 Este projeto é um sistema básico de gerenciamento de clientes para uma livraria, desenvolvido em Java com interface gráfica Swing. O sistema permite realizar operações CRUD (Criar, Ler, Atualizar, Deletar) nos dados dos clientes, integrando uma interface amigável com um banco de dados relacional via JDBC.
