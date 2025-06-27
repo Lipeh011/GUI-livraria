@@ -31,4 +31,3 @@ Este projeto é um sistema básico de gerenciamento de clientes para uma livrari
 
 ## Considerações Finais
 Este projeto serve como base para um sistema de cadastro de futuros clientes com interface gráfica e conexão com banco de dados, podendo ser expandido para funcionalidades mais complexas, como autenticação, relatórios e integração web.
-
